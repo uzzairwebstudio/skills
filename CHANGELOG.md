@@ -9,4 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add project README
+- Add `CHANGELOG.md` using Keep a Changelog layout
 - Initial repository import
