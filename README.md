@@ -12,6 +12,10 @@ Skills follow the [Agent Skills](https://skills.sh/docs) format and work with Cl
 
 Generate human-readable changelogs from git commit history, strictly following the [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.1.0/) format.
 
+### conventional-commits
+
+Write, validate, and fix git commit messages following the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+
 ## Installation
 
 ```
